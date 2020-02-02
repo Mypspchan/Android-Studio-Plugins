@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "taskLabel": "task-android_studio_plugin",
+      "appliesTo": "assets/android_studio_plugin.png",
+      "type": "launch"
+    }
+  ],
+  "version": "0.2.1"
+}
